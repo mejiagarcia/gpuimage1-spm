@@ -11,6 +11,6 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Maria Paula Gomez" => "mariapaulagp@hotmail.com" }
 s.homepage = "https://github.com/mejiagarcia/kooler-ios-gpuimage"
 s.source = { :git => "https://github.com/mejiagarcia/kooler-ios-gpuimage.git", :tag => "#{s.version}", branch: "master"}
-s.source_files = "GPUImage/GPUImage/GPUImage/GPUImage/Resources/*/.{swift}"
+s.source_files = "GPUImage/GPUImage/GPUImage/GPUImage/Resources/*/.{h}"
 s.resources = "GPUImage/GPUImage/Resources/*/.{json,png,jpeg,jpg,storyboard,xib,xcassets}"
 end
